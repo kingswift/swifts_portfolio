@@ -1,0 +1,281 @@
+li {
+ display: inline;
+ color: white;
+ padding: 14px 16px;
+ font-size: 60px;
+ margin: 27px;
+ font-family: Harlow Solid Italic;
+ 
+ 
+ 
+}
+
+
+li a {
+ text-decoration: none;
+ color: white;
+ 
+}
+
+ul {
+ text-align: center;
+ list-style-type: none;
+ margin: 80px;
+ padding: 10px;
+ overflow: hidden;
+ background-color: red;
+ border-radius: 100px;
+}
+
+#header {
+  text-align: center;
+  font-size: 140px;
+  color: gold;
+  font-family: Harlow Solid Italic;
+  font-weight: 900;
+  text-shadow: 5px 5px red;
+  
+  
+  
+}
+
+
+body {
+ background-color: #000000;
+ color: white;
+ font-size: 28px;
+ 
+}
+
+
+a:hover {
+  background-color: black;
+  padding: 10px;
+}
+
+.views {
+ margin-left: 10px;
+ text-align: left;
+}
+
+#yeah {
+ margin-left: 75px;
+ font-family: Harlow Solid Italic;
+ 
+}
+
+.anti {
+ margin-left: 356px;
+ margin-top: -360px;
+}
+
+#ok {
+ margin-left: 74px;
+}
+
+
+.twenty {
+ margin-left: 690px;
+ margin-top: -360px;
+}
+
+#yes {
+ margin-left: 65px;
+}
+
+.beauty {
+ margin-left: 1020px;
+ margin-top: -360px;
+}
+
+#no {
+ margin-left: 70px;
+}
+
+.forest {
+ margin-left: 1340px;
+ margin-top: -360px;
+}
+
+#my {
+ margin-left: 68px;
+}
+
+.pimp {
+ margin-top: 90px;
+ margin-left: 10px;
+}
+
+#for {
+ margin-left: 65px;
+}
+
+h1 {
+ font-weight: 200;
+}
+
+
+.royal {
+ margin-top: -363px;
+ margin-left: 355px;
+}
+
+#lol {
+ margin-left: 40px;
+}
+
+.chain {
+ margin-left: 680px;
+ margin-top: -363px;
+}
+
+#watch {
+ margin-left: 52px;
+}
+
+.memo {
+  font-size: 50px;
+  margin-left: 20px;
+  margin-top: 100px;
+  font-family: Harlow Solid Italic;
+}
+
+#about {
+ font-family: Harlow Solid Italic;
+ margin-left: 700px;
+ font-size: 80px;
+}
+
+h3 {
+ font-family: Harlow Solid Italic;
+}
+
+#drp {
+ font-family: Harlow Solid Italic;
+ margin-left: 300px;
+ margin-top: -220px;
+}
+.vreview {
+ margin-left: 10px;
+ font-size: 30px;
+}
+#dr {
+ margin-left: 75px;
+}
+
+.areview {
+ margin-top: 90px;
+}
+
+#ri {
+ margin-left: 63px;
+}
+
+#rih {
+ font-family: harlow solid italic;
+ margin-left: 310px;
+ margin-top: -200px;
+}
+
+
+.twreview {
+ margin-top: 118px;
+}
+
+#twen {
+ margin-left: 55px;
+}
+
+#doit {
+ font-family: harlow solid italic;
+ margin-left: 310px;
+ margin-top: -215px;
+}
+
+#end {
+ text-align: center;
+ margin-top: 800px;
+ font-size: 20px;
+}
+
+.long {
+ margin-left: 1030px;
+ margin-top: -365px;
+}
+#asap {
+ margin-left: 15px;
+}
+
+
+.mee {
+ width: 1000px;
+ height: 1000px;
+ background-color: green;
+}
+
+
+.twitter-share-button {
+   margin-left: -390px;
+   margin-top: -90px;
+}
+
+.grr {
+ display: inline;
+ background-color: none;
+ font-size: 20px;
+ margin-left: 40px;
+ padding: 0px;
+ margin: 12px;
+}
+.sub {
+ background-color: black;
+ margin: 0px;
+ padding: 0px;
+ margin-left: 10px;
+}
+
+#search {
+  border-radius: 100px;
+  margin-left: 1200px;
+  margin-top: 10px;
+}
+button {
+ border-radius: 100px;
+ height: 28px;
+ background-color: purple;
+ padding-color: red;
+ font-size: 20px;
+ width: 90px;
+ cursor: pointer;
+ font-family: harlow solid italic;
+}
+
+#content {
+  font-size: 50px;
+  margin-left: 300px;
+  margin-top: 100px;
+  font-family: Harlow Solid Italic;
+}
+
+#request {
+  font-family: Harlow Solid Italic;
+ margin-left: 700px;
+ font-size: 80px;
+}
+
+a:active {
+  color: green;
+}
+
+.beautyrev {
+  margin-top: 119px;
+}
+
+#beautext {
+  font-family: Harlow Solid Italic;
+  margin-left: 310px;
+  margin-top: -225px;
+}
+
+img {
+ border-radius: 10%;
